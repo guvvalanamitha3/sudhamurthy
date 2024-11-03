@@ -1,0 +1,146 @@
+*{
+    padding:0px;
+    margin:0px;
+}
+legend
+{
+    color:blue;
+    box-shadow: 5px 5px 5px black;
+}
+marquee
+{
+    font-size: 50px;
+}
+body{
+    background-image: url(../../asset/image/meron.jpeg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+fieldset
+{
+    border:10px double black;
+    height:1000px;
+    width:700px;
+    margin-left: 400px;
+    margin-top: 100px;
+    background-image: url(../../asset/image/stars.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+#img1
+{
+    height:150px;
+    width:150px;
+    background-image: url(../../asset/image/sm.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    border-radius: 80%;
+    padding-right:10px;
+    padding-top: 10px;
+    float: right;
+}
+#img1:hover
+{
+    background-image: url(../../asset/image/sudhamurthy1.avif);
+}
+#intro
+{
+    color: cadetblue;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+.intro
+{
+    font-size: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    color: white;
+}
+#face
+{
+    color: cadetblue;
+    padding-left: 10px;
+}
+.face
+{
+    font-size: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    color:white;
+}
+#writing
+{
+    color: cadetblue;
+    padding-left: 10px;
+}
+.writing
+{
+    font-size: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    color: white;
+}
+ol
+{
+    padding-left: 50px;
+    font-size: 20px;
+    color:rgb(151, 49, 49);
+}
+#social
+{
+    color: cadetblue;
+    padding-left: 10px;
+}
+.social
+{
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: 20px;
+    color: white;
+}
+#img2
+{
+    height:200px;
+    width:200px;
+    background-repeat: no-repeat;
+    float: right;
+    padding-right: 10px;
+}
+#award
+{
+    color: cadetblue;
+    padding-left: 10px;
+}
+.award
+{
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: 20px;
+    float:rigth;
+    color: white;
+}
+#img3
+{
+    height:200px;
+    width:250px;
+    background-image: url(../../asset/image/quote3.jpeg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    margin-right: 20px;
+    margin-top: 20px;
+    float: right;
+}
+#img3:hover
+{
+    background-image: url(../../asset/image/quote4.jpg);
+    margin-right: 20px;
+    margin-top: 20px;
+}
+h2
+{
+    font-size: 30px;
+    color:red;
+    float: right;
+    padding-top: 50px;
+    padding-right: 80px;
+}
